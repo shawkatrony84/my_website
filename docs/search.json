@@ -28,17 +28,17 @@
     "text": "I have worked extensively with large-scale public data systems, process automation, and analytics in the public sector. My work has included developing management information systems, improving data workflows, and supporting digital transformation for social protection programs. I also have experience with economic analysis, operational data, and business process optimization. I work with Python, SQL, and modern visualization tools.\nDownload my Resume"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "This project analyzed mental health factors influencing Depression among over 2,000 university students in Bangladesh.The final regression model identified Anxiety and Stress as the most significant positive predictors of depression. Students receiving a Scholarship/Waiver also showed slightly higher depression scores. Gender was ultimately not found to be a significant predictor of depression in the multivariate model, even though preliminary analysis suggested differences. The model accounted for over 61% of the variability in depression scores.\nGitHub Repository: View on GitHub - Analysis (interactive HTML): Open HTML Report"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#analyzing-factors-influencing-mental-health-of-bangladeshi-stidents",
+    "href": "projects.html#analyzing-factors-influencing-mental-health-of-bangladeshi-stidents",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "This project analyzed mental health factors influencing Depression among over 2,000 university students in Bangladesh.The final regression model identified Anxiety and Stress as the most significant positive predictors of depression. Students receiving a Scholarship/Waiver also showed slightly higher depression scores. Gender was ultimately not found to be a significant predictor of depression in the multivariate model, even though preliminary analysis suggested differences. The model accounted for over 61% of the variability in depression scores.\nGitHub Repository: View on GitHub - Analysis (interactive HTML): Open HTML Report"
   }
 ]

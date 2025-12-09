@@ -2,8 +2,9 @@
 title: "Projects"
 ---
 
-## Project 1
+## Analyzing Factors Influencing Mental Health of Bangladeshi Stidents
 
-## Project 2
+This project analyzed mental health factors influencing Depression among over 2,000 university students in Bangladesh.The final regression model identified Anxiety and Stress as the most significant positive predictors of depression. Students receiving a Scholarship/Waiver also showed slightly higher depression scores. Gender was ultimately not found to be a significant predictor of depression in the multivariate model, even though preliminary analysis suggested differences. The model accounted for over 61% of the variability in depression scores.
 
-## Project 3
+**GitHub Repository:** [View on GitHub](https://github.com/shawkatrony84/Student-Mental-Health-Project.git)
+- **Analysis (interactive HTML):** [Open HTML Report](html_pages/Final_Project_Shawkat_2.html)
