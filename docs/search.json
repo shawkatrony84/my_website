@@ -40,5 +40,12 @@
     "title": "Projects",
     "section": "",
     "text": "This project analyzed mental health factors influencing Depression among over 2,000 university students in Bangladesh.The final regression model identified Anxiety and Stress as the most significant positive predictors of depression. Students receiving a Scholarship/Waiver also showed slightly higher depression scores. Gender was ultimately not found to be a significant predictor of depression in the multivariate model, even though preliminary analysis suggested differences. The model accounted for over 61% of the variability in depression scores.\nGitHub Repository: View on GitHub - Analysis (interactive HTML): Open HTML Report"
+  },
+  {
+    "objectID": "projects.html#voting-analysis-dashboard",
+    "href": "projects.html#voting-analysis-dashboard",
+    "title": "Projects",
+    "section": "2020 Voting Analysis Dashboard",
+    "text": "2020 Voting Analysis Dashboard\nExplore my interactive dashboard analyzing voter age and prayer frequency in the 2020 U.S. Presidential Election:\nView Dashboard"
   }
 ]

@@ -8,3 +8,9 @@ This project analyzed mental health factors influencing Depression among over 2,
 
 **GitHub Repository:** [View on GitHub](https://github.com/shawkatrony84/Student-Mental-Health-Project.git)
 - **Analysis (interactive HTML):** [Open HTML Report](html_pages/Final_Project_Shawkat_2.html)
+
+
+## 2020 Voting Analysis Dashboard
+
+Explore my interactive dashboard analyzing voter age and prayer frequency in the 2020 U.S. Presidential Election:  
+[View Dashboard](https://shawkatrony.shinyapps.io/election_2020_dash/)

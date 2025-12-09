@@ -1,0 +1,10 @@
+name: election_2020_dash
+title:
+username: shawkatrony
+account: shawkatrony
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16281161
+bundleId: 11299503
+url: https://shawkatrony.shinyapps.io/election_2020_dash/
+version: 1
