@@ -22,8 +22,9 @@ I am currently pursuing an MS in Data Analytics and Computational Social Science
 ## Experience
 I have worked extensively with large-scale public data systems, process automation, and analytics in the public sector. My work has included developing management information systems, improving data workflows, and supporting digital transformation for social protection programs. I also have experience with economic analysis, operational data, and business process optimization. I work with Python, SQL, and modern visualization tools.
 
-:::
-[Download my Resume](fiiles/dacss_604.pdf)
+
+
+[Download my Resume](files/resume.pdf)
 
 :::
 

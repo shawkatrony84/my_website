@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - files/dacss_604.pdf
+    - files/resume.pdf
   
 website:
   title: "Shawkat Ali"
