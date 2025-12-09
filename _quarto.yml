@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/dacss_604.pdf
   
 website:
   title: "Shawkat Ali"
