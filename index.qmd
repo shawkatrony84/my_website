@@ -14,10 +14,13 @@ Before graduate school, I worked on large-scale data and digital systems in the 
 I’m especially interested in applications of machine learning, quantitative research, and public data to understand real-world problems. I enjoy working with Python, SQL, and visualization tools, and I’m always learning new methods and technologies in the data space.
 
 ## Goals
+I’m interested in applying data analytics and machine learning to social policy, public data systems, and decision-making. My current goal is to build stronger analytical and computational skills that can translate complex datasets into practical solutions for social and economic challenges. I enjoy working with real-world problems where data, technology, and public policy intersect.
 
 ## Education
+I am currently pursuing an MS in Data Analytics and Computational Social Science at the University of Massachusetts Amherst. Previously, I completed a Master of Public Policy at the University of Oxford, an MBA with a concentration in Finance, and a BBA in Accounting from the University of Dhaka. My academic training combines quantitative methods, policy analysis, and applied data science.
 
 ## Experience
+I have worked extensively with large-scale public data systems, process automation, and analytics in the public sector. My work has included developing management information systems, improving data workflows, and supporting digital transformation for social protection programs. I also have experience with economic analysis, operational data, and business process optimization. I work with Python, SQL, and modern visualization tools.
 
 :::
 
